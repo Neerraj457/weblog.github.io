@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WBUmAMkjq5m8CyGwxlF05ZN2zUlU_Mi3H5lA5IyyJmwA-3Hz");
+  background-size: 1400px;
+  color: white;
+  font-family: "PT Sans", sans-serif;
+}
+
+img {
+  float: right;
+  width: 431px;
+  height: 450px;
+}
+
+.nav {
+  text-align: center;
+  margin-left: 180px;
+}
+
+a {
+  color: white;
+  text-decoration:underline;
+}
+
+a:hover {
+  color: blue;
+}
+.dolly{
+  color: yellow;
+}
